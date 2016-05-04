@@ -3,7 +3,7 @@
 
 # Including
  - PHP 7.*
- - composer (/usr/local/bin/composer)
+ - phpunit (/usr/local/bin/composer)
  
 # How to run?
 docker run --rm -w=[your working directory] shito/alpine-composer:edge [composer command]
